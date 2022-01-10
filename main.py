@@ -88,7 +88,7 @@ async def send_message(channel_id, text):
 
 async def main():
     channel_id = conf.channel_id
-    timeout = 600
+    timeout = 10
     subreddit = 'memes'
     limit = 1
 
