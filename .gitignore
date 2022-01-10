@@ -3,3 +3,6 @@ conf.py
 tquery.py
 venv/
 .idea/
+errors.txt
+logs.txt
+__pycache__/
