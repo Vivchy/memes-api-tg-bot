@@ -1,0 +1,5 @@
+db/db_memes.db
+conf.py
+tquery.py
+venv/
+.idea/
